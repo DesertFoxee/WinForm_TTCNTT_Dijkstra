@@ -1,0 +1,10 @@
+F:\TaiLieuMonHoc\TTCNTT\CuoiKy\TTCNTT\TTCNTT\bin\Debug\TTCNTT.exe.config
+F:\TaiLieuMonHoc\TTCNTT\CuoiKy\TTCNTT\TTCNTT\bin\Debug\TTCNTT.exe
+F:\TaiLieuMonHoc\TTCNTT\CuoiKy\TTCNTT\TTCNTT\bin\Debug\TTCNTT.pdb
+F:\TaiLieuMonHoc\TTCNTT\CuoiKy\TTCNTT\TTCNTT\obj\Debug\TTCNTT.Form1.resources
+F:\TaiLieuMonHoc\TTCNTT\CuoiKy\TTCNTT\TTCNTT\obj\Debug\TTCNTT.Properties.Resources.resources
+F:\TaiLieuMonHoc\TTCNTT\CuoiKy\TTCNTT\TTCNTT\obj\Debug\TTCNTT.csproj.GenerateResource.cache
+F:\TaiLieuMonHoc\TTCNTT\CuoiKy\TTCNTT\TTCNTT\obj\Debug\TTCNTT.csproj.CoreCompileInputs.cache
+F:\TaiLieuMonHoc\TTCNTT\CuoiKy\TTCNTT\TTCNTT\obj\Debug\TTCNTT.exe
+F:\TaiLieuMonHoc\TTCNTT\CuoiKy\TTCNTT\TTCNTT\obj\Debug\TTCNTT.pdb
+F:\TaiLieuMonHoc\TTCNTT\CuoiKy\TTCNTT\TTCNTT\obj\Debug\TTCNTT.csprojAssemblyReference.cache
